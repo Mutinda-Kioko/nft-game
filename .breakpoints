@@ -1,0 +1,28 @@
+{
+  "files": {
+    "src/App.jsx": [
+      {
+        "id": "20794b19-f768-480d-98d8-a4b5ccbc87c3",
+        "line": 55,
+        "version": 143,
+        "index": 1720
+      }
+    ],
+    "src/Components/Arena/Arena.css": [
+      {
+        "id": "d3ba4283-05a3-4df7-a7c2-d73e44463f6c",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      }
+    ],
+    "src/constants.js": [
+      {
+        "id": "d25cfe82-ea73-45da-b3be-efe5c7141baa",
+        "line": 12,
+        "version": 11,
+        "index": 348
+      }
+    ]
+  }
+}
